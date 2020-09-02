@@ -1,0 +1,10 @@
+# API Keys
+/app/google-services.json
+
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
